@@ -11,7 +11,7 @@ I am a full-stack software engineer. I love programming, movies and anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
-<img align="right" alt="GIF" src="https://github.com/dtsuper3/dtsuper3/blob/main/anime.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/dtsuper3/dtsuper3/blob/main/anime.gif?raw=true" width="480" height="320" />
   
 
 **Talking about Personal Stuffs:**
