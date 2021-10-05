@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a full-stack software developer. I love programming, movies and anime.
+I am a full-stack software developer. I love watching movies, kdrama and anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
