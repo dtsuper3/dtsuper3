@@ -17,7 +17,7 @@ As a software engineer, I enjoy using my obsessive attention to detail, my unequ
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning Data Structures and Algorithms on [codeforces](https://codeforces.com/profile/dtsuper3);
+- 🚀 I’m currently improving my programming logic on [codeforces](https://codeforces.com/profile/dtsuper3);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: dtsuper3@gmail.com;
 - 📝 [Resume](https://www.deepakthapa.in/docs/Deepak-Thapa-Resume-Web-Developer.pdf).
