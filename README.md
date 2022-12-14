@@ -7,7 +7,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a Full Stack Software Engineer. I like watching movies, web series and anime.
+I am a Software Engineer. I like watching movies, web series and anime.
 
 As a software engineer, I enjoy using my obsessive attention to detail, my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
 
