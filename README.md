@@ -38,7 +38,7 @@ No Activity tracked this Week
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtsuper3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtsuper3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
 
