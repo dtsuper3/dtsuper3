@@ -40,4 +40,4 @@ No Activity tracked this Week
 
 </br>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
