@@ -21,21 +21,11 @@ Software engineer with an obsessive attention to detail, passionate about buildi
 
 </br>
 
-📊 **This Week I Spent My Time On:**
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
-
 📈 **My GitHub Stats:**
 
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dtsuper3&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtsuper3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
-
-</br>
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
