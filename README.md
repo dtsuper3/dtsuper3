@@ -6,9 +6,7 @@
 
 ### Glad to see you here! &nbsp;
 
-I am a Software Engineer. I like exploring new technologies.
-
-As a software engineer, I enjoy using my obsessive attention to detail and my unequivocal love for making things that change the world. That's why I like to make things that make a difference.
+Software engineer with an obsessive attention to detail, passionate about building technology that solves real-world problems and makes a meaningful impact.
 
 <img align="right" alt="GIF" src="https://github.com/dtsuper3/dtsuper3/blob/main/anime.gif?raw=true" width="480" height="320" />
   
@@ -16,7 +14,7 @@ As a software engineer, I enjoy using my obsessive attention to detail and my un
 **Talking about Personal Stuffs:**
 
 - 👨🏻‍💻 I’m currently working on something cool;
-- 🚀 I’m currently learning cross-platform mobile app development using React native.
+- 🚀 I’m currently learning RAG and agentic AI.
 - 💬 Ask me about anything, and I am happy to help;
 - 📫 How to reach me: dtsuper3@gmail.com;
 - 📝 [Resume](https://www.deepakthapa.in/docs/Deepak-Thapa-Resume-Web-Developer.pdf).
