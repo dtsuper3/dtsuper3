@@ -10,16 +10,12 @@ Software engineer with an obsessive attention to detail, passionate about buildi
 
 <img align="right" alt="GIF" src="https://github.com/dtsuper3/dtsuper3/blob/main/anime.gif?raw=true" width="480" height="320" />
   
-
 **Talking about Personal Stuffs:**
 
-- 👨🏻‍💻 I’m currently working on something cool;
 - 🚀 I’m currently learning RAG and agentic AI.
 - 💬 Ask me about anything, and I am happy to help;
 - 📫 How to reach me: dtsuper3@gmail.com;
 - 📝 [Resume](https://www.deepakthapa.in/docs/Deepak-Thapa-Resume-Web-Developer.pdf).
-
-</br>
 
 📈 **My GitHub Stats:**
 
@@ -28,4 +24,4 @@ Software engineer with an obsessive attention to detail, passionate about buildi
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dtsuper3&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=l09fp9pgmj7uaozp0tsqbowvj&cover_image=true&theme=spotify-embed&show_offline=false&background_color=121212&interchange=false&profanity=false&mode=light&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
