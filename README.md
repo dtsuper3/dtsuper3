@@ -15,7 +15,7 @@ Software engineer with an obsessive attention to detail, passionate about buildi
 - 🚀 I’m currently learning RAG and agentic AI.
 - 💬 Ask me about anything, and I am happy to help;
 - 📫 How to reach me: dtsuper3@gmail.com;
-- 📝 [Resume](https://www.deepakthapa.in/docs/Deepak-Thapa-Resume-Web-Developer.pdf).
+- 📝 [Resume](https://ideepakthapa.com/docs/Deepak-Thapa-Resume-Full-Stack-Developer.pdf).
 
 📈 **My GitHub Stats:**
 
